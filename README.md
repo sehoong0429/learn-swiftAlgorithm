@@ -1,7 +1,7 @@
 # learn-swiftAlgorithm
 
 ## 💻 참여자
-👩🏻‍💻[sehong](https://github.com/sehoong0429), 👨🏻‍💻hoony, 👨🏻‍💻max 
+👩🏻‍💻[sehong](https://github.com/sehoong0429), 👨🏻‍💻[hoony](https://github.com/Hoonyyyy), 👨🏻‍💻[max](https://github.com/Jun048)
 
 ## ⭐️ Rule
 - 각자가 정해진 범위에서 해결 할 수 있는 알고리즘 문제를 풀고,
