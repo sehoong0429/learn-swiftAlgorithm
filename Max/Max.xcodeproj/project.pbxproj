@@ -10,6 +10,7 @@
 		0A629EF228B8555D00BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF128B8555D00BB3961 /* main.swift */; };
 		0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF928B855BD00BB3961 /* Squarestar.swift */; };
 		0A629EFC28B8583200BB3961 /* 수박.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EFB28B8583200BB3961 /* 수박.swift */; };
+		0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0128B8626800BB3961 /* 평균구하기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		0A629EF128B8555D00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0A629EF928B855BD00BB3961 /* Squarestar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squarestar.swift; sourceTree = "<group>"; };
 		0A629EFB28B8583200BB3961 /* 수박.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수박.swift"; sourceTree = "<group>"; };
+		0A629F0128B8626800BB3961 /* 평균구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균구하기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			children = (
 				0A629EF928B855BD00BB3961 /* Squarestar.swift */,
 				0A629EFB28B8583200BB3961 /* 수박.swift */,
+				0A629F0128B8626800BB3961 /* 평균구하기.swift */,
 			);
 			path = Week01;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */,
 				0A629EFC28B8583200BB3961 /* 수박.swift in Sources */,
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
 				0A629EF228B8555D00BB3961 /* main.swift in Sources */,
