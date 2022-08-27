@@ -12,6 +12,7 @@
 		0A629EFC28B8583200BB3961 /* 수박.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EFB28B8583200BB3961 /* 수박.swift */; };
 		0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0128B8626800BB3961 /* 평균구하기.swift */; };
 		0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0328B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift */; };
+		0A629F0628BA642500BB3961 /* 핸드폰 번호 가리기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0528BA642500BB3961 /* 핸드폰 번호 가리기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		0A629EFB28B8583200BB3961 /* 수박.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수박.swift"; sourceTree = "<group>"; };
 		0A629F0128B8626800BB3961 /* 평균구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균구하기.swift"; sourceTree = "<group>"; };
 		0A629F0328B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열을 정수로 바꾸기.swift"; sourceTree = "<group>"; };
+		0A629F0528BA642500BB3961 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				0A629EFB28B8583200BB3961 /* 수박.swift */,
 				0A629F0128B8626800BB3961 /* 평균구하기.swift */,
 				0A629F0328B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift */,
+				0A629F0528BA642500BB3961 /* 핸드폰 번호 가리기.swift */,
 			);
 			path = Week01;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A629F0628BA642500BB3961 /* 핸드폰 번호 가리기.swift in Sources */,
 				0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */,
 				0A629EFC28B8583200BB3961 /* 수박.swift in Sources */,
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
