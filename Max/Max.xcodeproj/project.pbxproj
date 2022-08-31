@@ -15,6 +15,7 @@
 		0A629F0628BA642500BB3961 /* 핸드폰 번호 가리기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0528BA642500BB3961 /* 핸드폰 번호 가리기.swift */; };
 		0A629F0928BCA45800BB3961 /* 문자열 내림차순으로 배치.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0828BCA45800BB3961 /* 문자열 내림차순으로 배치.swift */; };
 		0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0C28BF53FC00BB3961 /* 2016.swift */; };
+		0A629F0F28BF546500BB3961 /* 가운데 글자 가져오기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F0E28BF546500BB3961 /* 가운데 글자 가져오기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		0A629F0528BA642500BB3961 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
 		0A629F0828BCA45800BB3961 /* 문자열 내림차순으로 배치.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 내림차순으로 배치.swift"; sourceTree = "<group>"; };
 		0A629F0C28BF53FC00BB3961 /* 2016.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2016.swift; sourceTree = "<group>"; };
+		0A629F0E28BF546500BB3961 /* 가운데 글자 가져오기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가운데 글자 가져오기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			children = (
 				0A629F0828BCA45800BB3961 /* 문자열 내림차순으로 배치.swift */,
 				0A629F0C28BF53FC00BB3961 /* 2016.swift */,
+				0A629F0E28BF546500BB3961 /* 가운데 글자 가져오기.swift */,
 			);
 			path = Week02;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A629F0F28BF546500BB3961 /* 가운데 글자 가져오기.swift in Sources */,
 				0A629F0628BA642500BB3961 /* 핸드폰 번호 가리기.swift in Sources */,
 				0A629F0928BCA45800BB3961 /* 문자열 내림차순으로 배치.swift in Sources */,
 				0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */,
