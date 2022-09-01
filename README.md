@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|
 |1|2022-08-18|프로그래머스 lv1([수박수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=swift), [평균구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=swift), [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=swift), [문자열 정수로 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=swift), [핸드폰번호 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12948))|
 |2|2022-08-26|프로그래머스 lv1([2016](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=swift),[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=swift),[문자열 내림차순 배치](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=swift),[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=swift))|2| 
-|3|2022-09-01||0|
+|3|2022-09-01|프로그래머스 lv1([내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128),[두 정수사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=swift),[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=swift),[문자열 내의 P와 Y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=swift)) |
 |4|2022-09-08||
 
 ## 💡 branch 사용 방법
