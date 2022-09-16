@@ -19,7 +19,8 @@
 |2|2022-08-26|프로그래머스 lv1([2016](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=swift),[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=swift),[문자열 내림차순 배치](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=swift),[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=swift))|2| 
 |3|2022-09-01|프로그래머스 lv1([내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=swift),[두 정수사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=swift),[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=swift),[문자열 내의 P와 Y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=swift)) |
 |4|2022-09-08|첫번째 우리의 휴가!🥳|
-|5|2022-09-15||
+|5|2022-09-15|프로그래머스 lv1([문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=swift),[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=swift),[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=swift))|
+|6|2022-09-22||
 
 ## 💡 branch 사용 방법
 - Master branch 사용
