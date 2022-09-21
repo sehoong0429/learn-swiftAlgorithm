@@ -23,6 +23,7 @@
 		0A629F3528D9725C00BB3961 /* 휴가.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F3428D9725C00BB3961 /* 휴가.swift */; };
 		0A629F3728D9728500BB3961 /* 문자열 다루기 기본.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F3628D9728500BB3961 /* 문자열 다루기 기본.swift */; };
 		0A629F3928DAADFC00BB3961 /* 짝수와 홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F3828DAADFC00BB3961 /* 짝수와 홀수.swift */; };
+		0A629F3B28DAB34000BB3961 /* 서울에서 김서방 찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F3A28DAB34000BB3961 /* 서울에서 김서방 찾기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		0A629F3428D9725C00BB3961 /* 휴가.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "휴가.swift"; sourceTree = "<group>"; };
 		0A629F3628D9728500BB3961 /* 문자열 다루기 기본.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 다루기 기본.swift"; sourceTree = "<group>"; };
 		0A629F3828DAADFC00BB3961 /* 짝수와 홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와 홀수.swift"; sourceTree = "<group>"; };
+		0A629F3A28DAB34000BB3961 /* 서울에서 김서방 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "서울에서 김서방 찾기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 			children = (
 				0A629F3628D9728500BB3961 /* 문자열 다루기 기본.swift */,
 				0A629F3828DAADFC00BB3961 /* 짝수와 홀수.swift */,
+				0A629F3A28DAB34000BB3961 /* 서울에서 김서방 찾기.swift */,
 			);
 			path = Week05;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */,
 				0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */,
 				0A629EF228B8555D00BB3961 /* main.swift in Sources */,
+				0A629F3B28DAB34000BB3961 /* 서울에서 김서방 찾기.swift in Sources */,
 				0A629F3728D9728500BB3961 /* 문자열 다루기 기본.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
