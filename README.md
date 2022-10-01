@@ -21,6 +21,9 @@
 |4|2022-09-08|첫번째 우리의 휴가!🥳|
 |5|2022-09-15|프로그래머스 lv1([문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=swift),[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=swift),[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=swift))|
 |6|2022-09-22|프로그래머스 lv1([정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934),[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931),[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932),[하샤드수](https://school.programmers.co.kr/learn/courses/30/lessons/12947),[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=swift))|
+|7|2022-09-29|프로그래머스 lv1([콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943),[제일 작은수 제거](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=swift),[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051),[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748),[부족한 금액 계산](https://school.programmers.co.kr/learn/courses/30/lessons/82612))|
+|8|2022-10-06|
+|9|2022-10-13|
 
 ## 💡 branch 사용 방법
 - Master branch 사용
