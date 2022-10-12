@@ -23,7 +23,9 @@
 |6|2022-09-22|프로그래머스 lv1([정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934),[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931),[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932),[하샤드수](https://school.programmers.co.kr/learn/courses/30/lessons/12947),[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=swift))|
 |7|2022-09-29|프로그래머스 lv1([콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943),[제일 작은수 제거](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=swift),[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051),[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748),[부족한 금액 계산](https://school.programmers.co.kr/learn/courses/30/lessons/82612))|
 |8|2022-10-06|lv1([두개뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644),[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930), [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935),[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)) lv2 ([최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939))|
-|9|2022-10-13|
+|9|2022-10-13|lv1([문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301),[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840),[신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)) lv2([JadenCase문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951),[이진변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129))|
+|10|2022-10-20|
+|11|2022-10-27|
 
 ## 💡 branch 사용 방법
 - Master branch 사용
