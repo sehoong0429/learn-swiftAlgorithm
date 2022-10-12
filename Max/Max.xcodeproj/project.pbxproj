@@ -36,6 +36,7 @@
 		0A629F9828ED333600BB3961 /* 약수의 개수와 덧셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F9728ED333500BB3961 /* 약수의 개수와 덧셈.swift */; };
 		0A629F9A28ED338F00BB3961 /* k번째 수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F9928ED338F00BB3961 /* k번째 수.swift */; };
 		0A629F9C28ED33E200BB3961 /* 부족한 금액 계산하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629F9B28ED33E200BB3961 /* 부족한 금액 계산하기.swift */; };
+		0A62A00128F661D200BB3961 /* 두개 뽑아서 더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A62A00028F661D200BB3961 /* 두개 뽑아서 더하기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -81,6 +82,7 @@
 		0A629F9728ED333500BB3961 /* 약수의 개수와 덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수의 개수와 덧셈.swift"; sourceTree = "<group>"; };
 		0A629F9928ED338F00BB3961 /* k번째 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k번째 수.swift"; sourceTree = "<group>"; };
 		0A629F9B28ED33E200BB3961 /* 부족한 금액 계산하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "부족한 금액 계산하기.swift"; sourceTree = "<group>"; };
+		0A62A00028F661D200BB3961 /* 두개 뽑아서 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두개 뽑아서 더하기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				0A629F3328D9723F00BB3961 /* Week05 */,
 				0A629F7F28DBFBF100BB3961 /* Week06 */,
 				0A629F8A28ED315A00BB3961 /* Week07 */,
+				0A629FFF28F661B300BB3961 /* Week08 */,
 				0A629EF128B8555D00BB3961 /* main.swift */,
 			);
 			path = Max;
@@ -202,6 +205,14 @@
 			path = Week07;
 			sourceTree = "<group>";
 		};
+		0A629FFF28F661B300BB3961 /* Week08 */ = {
+			isa = PBXGroup;
+			children = (
+				0A62A00028F661D200BB3961 /* 두개 뽑아서 더하기.swift */,
+			);
+			path = Week08;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -282,6 +293,7 @@
 				0A629F8328E17EF900BB3961 /* 하샤드 수.swift in Sources */,
 				0A629F1228C5D63500BB3961 /* 내적.swift in Sources */,
 				0A629F8928ED312500BB3961 /* 예산.swift in Sources */,
+				0A62A00128F661D200BB3961 /* 두개 뽑아서 더하기.swift in Sources */,
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
 				0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */,
 				0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */,
