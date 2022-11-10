@@ -51,6 +51,9 @@
 		0AAC4CD52912362A00AF1FDB /* Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CD42912362A00AF1FDB /* Move Zeroes.swift */; };
 		0AAC4CD72912366400AF1FDB /* 다음에 올 숫자.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CD62912366400AF1FDB /* 다음에 올 숫자.swift */; };
 		0AAC4CD92912369300AF1FDB /* 저주의 숫자 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CD82912369300AF1FDB /* 저주의 숫자 3.swift */; };
+		0AAC4CDC291B749100AF1FDB /* Fizz Buzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CDB291B749100AF1FDB /* Fizz Buzz.swift */; };
+		0AAC4CDE291B8D7F00AF1FDB /* 컨트롤제트.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CDD291B8D7F00AF1FDB /* 컨트롤제트.swift */; };
+		0AAC4CE0291B8DB300AF1FDB /* 삼총사.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CDF291B8DB300AF1FDB /* 삼총사.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -111,6 +114,9 @@
 		0AAC4CD42912362A00AF1FDB /* Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Move Zeroes.swift"; sourceTree = "<group>"; };
 		0AAC4CD62912366400AF1FDB /* 다음에 올 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음에 올 숫자.swift"; sourceTree = "<group>"; };
 		0AAC4CD82912369300AF1FDB /* 저주의 숫자 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "저주의 숫자 3.swift"; sourceTree = "<group>"; };
+		0AAC4CDB291B749100AF1FDB /* Fizz Buzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fizz Buzz.swift"; sourceTree = "<group>"; };
+		0AAC4CDD291B8D7F00AF1FDB /* 컨트롤제트.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "컨트롤제트.swift"; sourceTree = "<group>"; };
+		0AAC4CDF291B8DB300AF1FDB /* 삼총사.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "삼총사.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +160,7 @@
 				0A62A00C28F7EDE200BB3961 /* Week09 */,
 				0AAC4CC529090DAA00AF1FDB /* Week10 */,
 				0AAC4CD1291235B300AF1FDB /* Week11 */,
+				0AAC4CDA291B747000AF1FDB /* Week12 */,
 				0A629EF128B8555D00BB3961 /* main.swift */,
 			);
 			path = Max;
@@ -279,6 +286,16 @@
 			path = Week11;
 			sourceTree = "<group>";
 		};
+		0AAC4CDA291B747000AF1FDB /* Week12 */ = {
+			isa = PBXGroup;
+			children = (
+				0AAC4CDB291B749100AF1FDB /* Fizz Buzz.swift */,
+				0AAC4CDD291B8D7F00AF1FDB /* 컨트롤제트.swift */,
+				0AAC4CDF291B8DB300AF1FDB /* 삼총사.swift */,
+			);
+			path = Week12;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -340,6 +357,7 @@
 				0A62A01628FF9C3800BB3961 /* JadenCase 문자열.swift in Sources */,
 				0A629F3528D9725C00BB3961 /* 휴가.swift in Sources */,
 				0AAC4CD3291235FD00AF1FDB /* Add Two Integers.swift in Sources */,
+				0AAC4CDC291B749100AF1FDB /* Fizz Buzz.swift in Sources */,
 				0AAC4CD72912366400AF1FDB /* 다음에 올 숫자.swift in Sources */,
 				0A629F3928DAADFC00BB3961 /* 짝수와 홀수.swift in Sources */,
 				0A629F9A28ED338F00BB3961 /* k번째 수.swift in Sources */,
@@ -357,6 +375,7 @@
 				0A62A01028F7EEEA00BB3961 /* 모의고사.swift in Sources */,
 				0A629F0228B8626800BB3961 /* 평균구하기.swift in Sources */,
 				0A629F9228ED325E00BB3961 /* 콜라츠 추측.swift in Sources */,
+				0AAC4CDE291B8D7F00AF1FDB /* 컨트롤제트.swift in Sources */,
 				0A629F1628C5EAC300BB3961 /* 두 정수 사이의 합.swift in Sources */,
 				0A629F9428ED329400BB3961 /* 나머지가 1이 되는 수 찾기.swift in Sources */,
 				0AAC4CD52912362A00AF1FDB /* Move Zeroes.swift in Sources */,
@@ -381,6 +400,7 @@
 				0A629F3728D9728500BB3961 /* 문자열 다루기 기본.swift in Sources */,
 				0A629F8128DBFE6100BB3961 /* 자연수 뒤집어 배열 만들기.swift in Sources */,
 				0A62A00728F6626E00BB3961 /* 최댓값과 최솟값.swift in Sources */,
+				0AAC4CE0291B8DB300AF1FDB /* 삼총사.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
