@@ -26,9 +26,11 @@
 |9|2022-10-13|lv1([문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301),[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840),[신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)) lv2([JadenCase문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951),[이진변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129))|
 |10|2022-10-20|LeetCode([TwoSum](https://leetcode.com/problems/two-sum/),[RomanToInteger](https://leetcode.com/problems/roman-to-integer/),[longestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/),[climbingStairs](https://leetcode.com/problems/climbing-stairs/))|
 |11|2022-10-28|LeetCode([Add Two Integers](https://leetcode.com/problems/add-two-integers/),[Move Zeroes](https://leetcode.com/problems/move-zeroes)),프로그래머스([옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956),[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924),[저주의숫자3](https://school.programmers.co.kr/learn/courses/30/lessons/120871))|
-|12|2022-11-03|LeetCode([reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/),[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)),프로그래머스([삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705),[숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128),[컨트롤제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853))|
-|13|2022-11-10||
-|14|2022-11-17||
+|12|2022-11-03|LeetCode([reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/),[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)),프로그래머스([삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705),[컨트롤제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853))|
+|13|2022-11-10|프로그래머스([숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128),[문자열밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921),[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)),Leetcode([Remove](https://leetcode.com/problems/remove-element/),[SingleNumber](https://leetcode.com/problems/single-number/),[연속배열출력](https://leetcode.com/problems/concatenation-of-array/))|
+|14|2022-11-17|프로그래머스([최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491),[푸드파이터대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)),LeetCode([Jewels Stones](https://leetcode.com/problems/jewels-and-stones/),[Palindrome](https://leetcode.com/problems/palindrome-linked-list/),[Reverse](https://leetcode.com/problems/reverse-linked-list/))|
+|15|2022-11-24||
+|16|2022-12-01|| 
 
 ## 💡 branch 사용 방법
 - Master branch 사용
