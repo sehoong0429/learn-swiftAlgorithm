@@ -58,6 +58,7 @@
 		0AAC4CE52925185200AF1FDB /* 숫자짝꿍.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CE42925185200AF1FDB /* 숫자짝꿍.swift */; };
 		0AAC4CE72925188F00AF1FDB /* Single Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CE62925188F00AF1FDB /* Single Number.swift */; };
 		0AAC4CE9292518D000AF1FDB /* Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CE8292518D000AF1FDB /* Remove Element.swift */; };
+		0AAC4CEC292DFE3B00AF1FDB /* Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CEB292DFE3B00AF1FDB /* Jewels and Stones.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +126,7 @@
 		0AAC4CE42925185200AF1FDB /* 숫자짝꿍.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자짝꿍.swift"; sourceTree = "<group>"; };
 		0AAC4CE62925188F00AF1FDB /* Single Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single Number.swift"; sourceTree = "<group>"; };
 		0AAC4CE8292518D000AF1FDB /* Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Element.swift"; sourceTree = "<group>"; };
+		0AAC4CEB292DFE3B00AF1FDB /* Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jewels and Stones.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 				0AAC4CD1291235B300AF1FDB /* Week11 */,
 				0AAC4CDA291B747000AF1FDB /* Week12 */,
 				0AAC4CE12925180500AF1FDB /* Week13 */,
+				0AAC4CEA292DFDAB00AF1FDB /* Week14 */,
 				0A629EF128B8555D00BB3961 /* main.swift */,
 			);
 			path = Max;
@@ -316,6 +319,14 @@
 			path = Week13;
 			sourceTree = "<group>";
 		};
+		0AAC4CEA292DFDAB00AF1FDB /* Week14 */ = {
+			isa = PBXGroup;
+			children = (
+				0AAC4CEB292DFE3B00AF1FDB /* Jewels and Stones.swift */,
+			);
+			path = Week14;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -417,6 +428,7 @@
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
 				0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */,
 				0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */,
+				0AAC4CEC292DFE3B00AF1FDB /* Jewels and Stones.swift in Sources */,
 				0AAC4CC9290926DA00AF1FDB /* Climbing Stairs.swift in Sources */,
 				0A629EF228B8555D00BB3961 /* main.swift in Sources */,
 				0A629F3B28DAB34000BB3961 /* 서울에서 김서방 찾기.swift in Sources */,
