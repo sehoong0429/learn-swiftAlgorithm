@@ -29,7 +29,7 @@
 |12|2022-11-03|LeetCode([reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/),[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)),프로그래머스([삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705),[컨트롤제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853))|
 |13|2022-11-10|프로그래머스([숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128),[문자열밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921),[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)),Leetcode([Remove](https://leetcode.com/problems/remove-element/),[SingleNumber](https://leetcode.com/problems/single-number/),[연속배열출력](https://leetcode.com/problems/concatenation-of-array/))|
 |14|2022-11-17|프로그래머스([최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491),[푸드파이터대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)),LeetCode([Jewels Stones](https://leetcode.com/problems/jewels-and-stones/),[Palindrome](https://leetcode.com/problems/palindrome-linked-list/),[Reverse](https://leetcode.com/problems/reverse-linked-list/))|
-|15|2022-11-24||
+|15|2022-11-24|LeetCode-Array([BuildArray](https://leetcode.com/problems/build-array-from-permutation/description/),[GoodPairs](https://leetcode.com/problems/number-of-good-pairs/),[SmallerNumber](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/),[SortPeople](https://leetcode.com/problems/sort-the-people/),[RichestCustomer](https://leetcode.com/problems/richest-customer-wealth/))|
 |16|2022-12-01|| 
 
 ## 💡 branch 사용 방법
