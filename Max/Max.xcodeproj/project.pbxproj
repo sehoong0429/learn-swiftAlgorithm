@@ -63,6 +63,7 @@
 		0AAC4CF0292E074900AF1FDB /* 푸파대회.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CEF292E074900AF1FDB /* 푸파대회.swift */; };
 		0AAC4CF32936F09700AF1FDB /* Smaller Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CF22936F09700AF1FDB /* Smaller Number.swift */; };
 		0AAC4CF52936F0DD00AF1FDB /* RichestCustomer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CF42936F0DD00AF1FDB /* RichestCustomer.swift */; };
+		0AAC4CF7293730DD00AF1FDB /* Sort the people.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC4CF6293730DD00AF1FDB /* Sort the people.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -135,6 +136,7 @@
 		0AAC4CEF292E074900AF1FDB /* 푸파대회.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "푸파대회.swift"; sourceTree = "<group>"; };
 		0AAC4CF22936F09700AF1FDB /* Smaller Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Smaller Number.swift"; sourceTree = "<group>"; };
 		0AAC4CF42936F0DD00AF1FDB /* RichestCustomer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomer.swift; sourceTree = "<group>"; };
+		0AAC4CF6293730DD00AF1FDB /* Sort the people.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sort the people.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -343,6 +345,7 @@
 			children = (
 				0AAC4CF22936F09700AF1FDB /* Smaller Number.swift */,
 				0AAC4CF42936F0DD00AF1FDB /* RichestCustomer.swift */,
+				0AAC4CF6293730DD00AF1FDB /* Sort the people.swift */,
 			);
 			path = Week15;
 			sourceTree = "<group>";
@@ -448,6 +451,7 @@
 				0AAC4CE52925185200AF1FDB /* 숫자짝꿍.swift in Sources */,
 				0AAC4CEE292DFF7500AF1FDB /* 최소직사각형.swift in Sources */,
 				0A62A00128F661D200BB3961 /* 두개 뽑아서 더하기.swift in Sources */,
+				0AAC4CF7293730DD00AF1FDB /* Sort the people.swift in Sources */,
 				0AAC4CF0292E074900AF1FDB /* 푸파대회.swift in Sources */,
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
 				0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */,
