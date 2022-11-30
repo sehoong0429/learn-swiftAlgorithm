@@ -13,7 +13,9 @@ func solution(_ food:[Int]) -> String {
     for i in (1..<food.count) {
         result += String(repeating: "\(i)", count: food[i] / 2)
     }
-
+    
     return result + "0" + String(result.reversed())
 }
+
+
 
