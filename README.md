@@ -31,7 +31,7 @@
 |14|2022-11-17|프로그래머스([최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491),[푸드파이터대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)),LeetCode([Jewels Stones](https://leetcode.com/problems/jewels-and-stones/),[Palindrome](https://leetcode.com/problems/palindrome-linked-list/),[Reverse](https://leetcode.com/problems/reverse-linked-list/))|
 |15|2022-11-24|LeetCode-Array([BuildArray](https://leetcode.com/problems/build-array-from-permutation/description/),[GoodPairs](https://leetcode.com/problems/number-of-good-pairs/),[SmallerNumber](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/),[SortPeople](https://leetcode.com/problems/sort-the-people/),[RichestCustomer](https://leetcode.com/problems/richest-customer-wealth/))|
 |16|2022-12-01|12월 15일까지 길고 긴 두번째 휴가...⭐️ |
-|17|2022-12-15||
+|18|2022-12-15|프로그래머스([가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086),[명예의전당](https://school.programmers.co.kr/learn/courses/30/lessons/138477),[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) +풀지 못한 문제들|
 
 ## 💡 branch 사용 방법
 - Master branch 사용
