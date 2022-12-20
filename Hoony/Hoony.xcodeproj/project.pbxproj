@@ -52,6 +52,7 @@
 		7E93E5F128C65A7900C270B1 /* 내적.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E93E5F028C65A7900C270B1 /* 내적.swift */; };
 		7E96D1DE29026D34009345E8 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E96D1DD29026D34009345E8 /* TwoSum.swift */; };
 		7E9AD2A52926999D005E3E57 /* 푸드 파이트 대회.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9AD2A42926999D005E3E57 /* 푸드 파이트 대회.swift */; };
+		7EB3E5E629521DDE0010C8BD /* Number of Good Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB3E5E529521DDE0010C8BD /* Number of Good Pairs.swift */; };
 		7EC751EB28C792BD00C838A5 /* 두 정수 사이의 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC751EA28C792BD00C838A5 /* 두 정수 사이의 합.swift */; };
 		7ED02B0329324917000D4E72 /* How Many Numbers Are Smaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED02B0229324917000D4E72 /* How Many Numbers Are Smaller.swift */; };
 		7ED7282A2928B85000395FE8 /* 최소 직사각형.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED728292928B85000395FE8 /* 최소 직사각형.swift */; };
@@ -120,6 +121,7 @@
 		7E93E5F028C65A7900C270B1 /* 내적.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "내적.swift"; sourceTree = "<group>"; };
 		7E96D1DD29026D34009345E8 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		7E9AD2A42926999D005E3E57 /* 푸드 파이트 대회.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "푸드 파이트 대회.swift"; sourceTree = "<group>"; };
+		7EB3E5E529521DDE0010C8BD /* Number of Good Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Good Pairs.swift"; sourceTree = "<group>"; };
 		7EC751EA28C792BD00C838A5 /* 두 정수 사이의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 정수 사이의 합.swift"; sourceTree = "<group>"; };
 		7ED02B0229324917000D4E72 /* How Many Numbers Are Smaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How Many Numbers Are Smaller.swift"; sourceTree = "<group>"; };
 		7ED728292928B85000395FE8 /* 최소 직사각형.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소 직사각형.swift"; sourceTree = "<group>"; };
@@ -339,6 +341,7 @@
 				7ED02B0229324917000D4E72 /* How Many Numbers Are Smaller.swift */,
 				7E41AB9A293343C500024464 /* Sort the People.swift */,
 				7E5FA0BC29351E3A00B306B6 /* Richest Customer Wealth.swift */,
+				7EB3E5E529521DDE0010C8BD /* Number of Good Pairs.swift */,
 			);
 			path = "Week 15";
 			sourceTree = "<group>";
@@ -430,6 +433,7 @@
 				7E42B3B628E40E6000EE532F /* 예산.swift in Sources */,
 				7EC751EB28C792BD00C838A5 /* 두 정수 사이의 합.swift in Sources */,
 				7E9AD2A52926999D005E3E57 /* 푸드 파이트 대회.swift in Sources */,
+				7EB3E5E629521DDE0010C8BD /* Number of Good Pairs.swift in Sources */,
 				7E305BBE28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift in Sources */,
 				7E3ED948291D67EE000284E0 /* 문자열 밀기.swift in Sources */,
 				7E5C723C28BA65670005AE2C /* 직사각형 별찍기.swift in Sources */,
