@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0A4039FE2952A7C100EACC94 /* BuildArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4039FD2952A7C100EACC94 /* BuildArray.swift */; };
+		0A403A002952A7E900EACC94 /* GoodPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4039FF2952A7E900EACC94 /* GoodPairs.swift */; };
 		0A629EF228B8555D00BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF128B8555D00BB3961 /* main.swift */; };
 		0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF928B855BD00BB3961 /* Squarestar.swift */; };
 		0A629EFC28B8583200BB3961 /* 수박.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EFB28B8583200BB3961 /* 수박.swift */; };
@@ -81,6 +82,7 @@
 
 /* Begin PBXFileReference section */
 		0A4039FD2952A7C100EACC94 /* BuildArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArray.swift; sourceTree = "<group>"; };
+		0A4039FF2952A7E900EACC94 /* GoodPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodPairs.swift; sourceTree = "<group>"; };
 		0A629EEE28B8555D00BB3961 /* Max */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Max; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A629EF128B8555D00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0A629EF928B855BD00BB3961 /* Squarestar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squarestar.swift; sourceTree = "<group>"; };
@@ -349,6 +351,7 @@
 				0AAC4CF42936F0DD00AF1FDB /* RichestCustomer.swift */,
 				0AAC4CF6293730DD00AF1FDB /* Sort the people.swift */,
 				0A4039FD2952A7C100EACC94 /* BuildArray.swift */,
+				0A4039FF2952A7E900EACC94 /* GoodPairs.swift */,
 			);
 			path = Week15;
 			sourceTree = "<group>";
@@ -462,6 +465,7 @@
 				0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */,
 				0AAC4CEC292DFE3B00AF1FDB /* Jewels and Stones.swift in Sources */,
 				0AAC4CC9290926DA00AF1FDB /* Climbing Stairs.swift in Sources */,
+				0A403A002952A7E900EACC94 /* GoodPairs.swift in Sources */,
 				0A629EF228B8555D00BB3961 /* main.swift in Sources */,
 				0A629F3B28DAB34000BB3961 /* 서울에서 김서방 찾기.swift in Sources */,
 				0AAC4CE32925182400AF1FDB /* 문자열 밀기.swift in Sources */,
