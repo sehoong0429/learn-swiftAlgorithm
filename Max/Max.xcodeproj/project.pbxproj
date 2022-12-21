@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A4039FE2952A7C100EACC94 /* BuildArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4039FD2952A7C100EACC94 /* BuildArray.swift */; };
 		0A629EF228B8555D00BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF128B8555D00BB3961 /* main.swift */; };
 		0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF928B855BD00BB3961 /* Squarestar.swift */; };
 		0A629EFC28B8583200BB3961 /* 수박.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EFB28B8583200BB3961 /* 수박.swift */; };
@@ -79,6 +80,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0A4039FD2952A7C100EACC94 /* BuildArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArray.swift; sourceTree = "<group>"; };
 		0A629EEE28B8555D00BB3961 /* Max */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Max; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A629EF128B8555D00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0A629EF928B855BD00BB3961 /* Squarestar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squarestar.swift; sourceTree = "<group>"; };
@@ -346,6 +348,7 @@
 				0AAC4CF22936F09700AF1FDB /* Smaller Number.swift */,
 				0AAC4CF42936F0DD00AF1FDB /* RichestCustomer.swift */,
 				0AAC4CF6293730DD00AF1FDB /* Sort the people.swift */,
+				0A4039FD2952A7C100EACC94 /* BuildArray.swift */,
 			);
 			path = Week15;
 			sourceTree = "<group>";
@@ -414,6 +417,7 @@
 				0AAC4CD3291235FD00AF1FDB /* Add Two Integers.swift in Sources */,
 				0AAC4CDC291B749100AF1FDB /* Fizz Buzz.swift in Sources */,
 				0AAC4CD72912366400AF1FDB /* 다음에 올 숫자.swift in Sources */,
+				0A4039FE2952A7C100EACC94 /* BuildArray.swift in Sources */,
 				0A629F3928DAADFC00BB3961 /* 짝수와 홀수.swift in Sources */,
 				0A629F9A28ED338F00BB3961 /* k번째 수.swift in Sources */,
 				0AAC4CC729090DDA00AF1FDB /* TwoSum.swift in Sources */,
