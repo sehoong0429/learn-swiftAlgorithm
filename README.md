@@ -30,7 +30,10 @@
 |13|2022-11-10|프로그래머스([숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128),[문자열밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921),[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)),Leetcode([Remove](https://leetcode.com/problems/remove-element/),[SingleNumber](https://leetcode.com/problems/single-number/),[연속배열출력](https://leetcode.com/problems/concatenation-of-array/))|
 |14|2022-11-17|프로그래머스([최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491),[푸드파이터대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)),LeetCode([Jewels Stones](https://leetcode.com/problems/jewels-and-stones/),[Palindrome](https://leetcode.com/problems/palindrome-linked-list/),[Reverse](https://leetcode.com/problems/reverse-linked-list/))|
 |15|2022-11-24|LeetCode-Array([BuildArray](https://leetcode.com/problems/build-array-from-permutation/description/),[GoodPairs](https://leetcode.com/problems/number-of-good-pairs/),[SmallerNumber](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/),[SortPeople](https://leetcode.com/problems/sort-the-people/),[RichestCustomer](https://leetcode.com/problems/richest-customer-wealth/))|
-|16|2022-12-01|| 
+|16|2022-12-01|12월 15일까지 길고 긴 두번째 휴가...⭐️ |
+|18|2022-12-15|프로그래머스([가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086),[명예의전당](https://school.programmers.co.kr/learn/courses/30/lessons/138477),[과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) +풀지 못한 문제들|
+|19|2022-12-21|Leetcode([Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/),[flipping an Image](https://leetcode.com/problems/flipping-an-image/),[Final Value of Variable](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)) |
+|20|2022-12-28|프로그래머스([체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=swift)) 
 
 ## 💡 branch 사용 방법
 - Master branch 사용
