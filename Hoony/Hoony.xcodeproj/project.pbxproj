@@ -21,6 +21,7 @@
 		7E266C1B28F67BEA00DBCD91 /* 이상한 문자 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E266C1A28F67BEA00DBCD91 /* 이상한 문자 만들기.swift */; };
 		7E2845A328F78396006F55F3 /* 3진법 뒤집기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2845A228F78396006F55F3 /* 3진법 뒤집기.swift */; };
 		7E2845A528F787C5006F55F3 /* 최댓값과 최솟값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2845A428F787C5006F55F3 /* 최댓값과 최솟값.swift */; };
+		7E2B48C32953F37E0068EBBB /* Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */; };
 		7E2D3C32290B5A1B00AE186A /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2D3C31290B5A1B00AE186A /* Climbing Stairs.swift */; };
 		7E305BBE28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E305BBD28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift */; };
 		7E38584628EBAB4E00AAC490 /* k번째 수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E38584528EBAB4E00AAC490 /* k번째 수.swift */; };
@@ -89,6 +90,7 @@
 		7E266C1A28F67BEA00DBCD91 /* 이상한 문자 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이상한 문자 만들기.swift"; sourceTree = "<group>"; };
 		7E2845A228F78396006F55F3 /* 3진법 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법 뒤집기.swift"; sourceTree = "<group>"; };
 		7E2845A428F787C5006F55F3 /* 최댓값과 최솟값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최댓값과 최솟값.swift"; sourceTree = "<group>"; };
+		7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Running Sum of 1d Array.swift"; sourceTree = "<group>"; };
 		7E2D3C31290B5A1B00AE186A /* Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing Stairs.swift"; sourceTree = "<group>"; };
 		7E305BBD28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 내 p와 y의 개수.swift"; sourceTree = "<group>"; };
 		7E38584528EBAB4E00AAC490 /* k번째 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k번째 수.swift"; sourceTree = "<group>"; };
@@ -152,6 +154,14 @@
 			path = "Week 12";
 			sourceTree = "<group>";
 		};
+		7E2B48C12953F3550068EBBB /* Week 19 */ = {
+			isa = PBXGroup;
+			children = (
+				7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */,
+			);
+			path = "Week 19";
+			sourceTree = "<group>";
+		};
 		7E44731E28B85BC4001C82C2 = {
 			isa = PBXGroup;
 			children = (
@@ -171,6 +181,7 @@
 		7E44732928B85BC4001C82C2 /* Hoony */ = {
 			isa = PBXGroup;
 			children = (
+				7E2B48C12953F3550068EBBB /* Week 19 */,
 				7E73614E2950C76A0047AB36 /* Week 16 */,
 				7EEAE7B4292F415400FB9542 /* Week 15 */,
 				7E9AD2A32926997A005E3E57 /* Week 14 */,
@@ -409,6 +420,7 @@
 				7E255585291A9D0C0058290F /* 컨트롤제트.swift in Sources */,
 				7E1BEA8E290FAB2200C6635A /* 다음에 올 숫자.swift in Sources */,
 				7E4CAC5E28E8063000C5F3DB /* 제일 작은 수 제거.swift in Sources */,
+				7E2B48C32953F37E0068EBBB /* Running Sum of 1d Array.swift in Sources */,
 				7E38584628EBAB4E00AAC490 /* k번째 수.swift in Sources */,
 				7E861FB428FEE8DE00C2026A /* 이진 변환 반복하기.swift in Sources */,
 				7E46431328BDDADC00D30A65 /* 핸드폰 번호 가리기.swift in Sources */,
