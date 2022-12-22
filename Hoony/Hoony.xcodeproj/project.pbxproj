@@ -22,6 +22,7 @@
 		7E2845A328F78396006F55F3 /* 3진법 뒤집기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2845A228F78396006F55F3 /* 3진법 뒤집기.swift */; };
 		7E2845A528F787C5006F55F3 /* 최댓값과 최솟값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2845A428F787C5006F55F3 /* 최댓값과 최솟값.swift */; };
 		7E2B48C32953F37E0068EBBB /* Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */; };
+		7E2B48C529540E050068EBBB /* Flipping an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2B48C429540E050068EBBB /* Flipping an Image.swift */; };
 		7E2D3C32290B5A1B00AE186A /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2D3C31290B5A1B00AE186A /* Climbing Stairs.swift */; };
 		7E305BBE28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E305BBD28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift */; };
 		7E38584628EBAB4E00AAC490 /* k번째 수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E38584528EBAB4E00AAC490 /* k번째 수.swift */; };
@@ -91,6 +92,7 @@
 		7E2845A228F78396006F55F3 /* 3진법 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법 뒤집기.swift"; sourceTree = "<group>"; };
 		7E2845A428F787C5006F55F3 /* 최댓값과 최솟값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최댓값과 최솟값.swift"; sourceTree = "<group>"; };
 		7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Running Sum of 1d Array.swift"; sourceTree = "<group>"; };
+		7E2B48C429540E050068EBBB /* Flipping an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flipping an Image.swift"; sourceTree = "<group>"; };
 		7E2D3C31290B5A1B00AE186A /* Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing Stairs.swift"; sourceTree = "<group>"; };
 		7E305BBD28D2F61300EB4922 /* 문자열 내 p와 y의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 내 p와 y의 개수.swift"; sourceTree = "<group>"; };
 		7E38584528EBAB4E00AAC490 /* k번째 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k번째 수.swift"; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				7E2B48C22953F37E0068EBBB /* Running Sum of 1d Array.swift */,
+				7E2B48C429540E050068EBBB /* Flipping an Image.swift */,
 			);
 			path = "Week 19";
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				7E5A94B6290E60D700B759B0 /* Add Twoo Integers.swift in Sources */,
 				7ED7282A2928B85000395FE8 /* 최소 직사각형.swift in Sources */,
 				7EE75C8B291CD0ED003E80BC /* 숫자짝꿍.swift in Sources */,
+				7E2B48C529540E050068EBBB /* Flipping an Image.swift in Sources */,
 				7E8201F628D468CB00AEC0BF /* 휴식주.swift in Sources */,
 				7E40B9702900C8AA00004E1E /* 모의고사.swift in Sources */,
 				7E96D1DE29026D34009345E8 /* TwoSum.swift in Sources */,
