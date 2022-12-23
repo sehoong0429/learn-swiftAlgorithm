@@ -12,6 +12,7 @@ class Solution {
         var result = 0
         // 0..operations.count로 하면 Int값이라
         // switch문에 String값 쓰려면 지금처럼 operations 으로 써야함
+        // @@
         for i in operations {
             switch i {
             case "--X":
@@ -29,3 +30,5 @@ class Solution {
         return result
     }
 }
+
+
