@@ -28,6 +28,7 @@ func solution(_ k:Int, _ m:Int, _ score:[Int]) -> Int {
     
     for i in stride(from: m - 1, to: sorted.count, by: m) { // 2부터 12까지 3보폭으로
         answer += sorted[i] * m
+        
 //        print(answer)
     }
     
