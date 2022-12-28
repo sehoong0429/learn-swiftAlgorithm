@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A4039FE2952A7C100EACC94 /* BuildArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4039FD2952A7C100EACC94 /* BuildArray.swift */; };
 		0A403A002952A7E900EACC94 /* GoodPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4039FF2952A7E900EACC94 /* GoodPairs.swift */; };
+		0A58CB62295BC828002F1609 /* Final Value.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A58CB61295BC828002F1609 /* Final Value.swift */; };
 		0A629EF228B8555D00BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF128B8555D00BB3961 /* main.swift */; };
 		0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EF928B855BD00BB3961 /* Squarestar.swift */; };
 		0A629EFC28B8583200BB3961 /* 수박.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EFB28B8583200BB3961 /* 수박.swift */; };
@@ -83,6 +84,7 @@
 /* Begin PBXFileReference section */
 		0A4039FD2952A7C100EACC94 /* BuildArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArray.swift; sourceTree = "<group>"; };
 		0A4039FF2952A7E900EACC94 /* GoodPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodPairs.swift; sourceTree = "<group>"; };
+		0A58CB61295BC828002F1609 /* Final Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Final Value.swift"; sourceTree = "<group>"; };
 		0A629EEE28B8555D00BB3961 /* Max */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Max; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A629EF128B8555D00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0A629EF928B855BD00BB3961 /* Squarestar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squarestar.swift; sourceTree = "<group>"; };
@@ -154,6 +156,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0A58CB60295BC7F6002F1609 /* Week19 */ = {
+			isa = PBXGroup;
+			children = (
+				0A58CB61295BC828002F1609 /* Final Value.swift */,
+			);
+			path = Week19;
+			sourceTree = "<group>";
+		};
 		0A629EE528B8555D00BB3961 = {
 			isa = PBXGroup;
 			children = (
@@ -188,6 +198,7 @@
 				0AAC4CE12925180500AF1FDB /* Week13 */,
 				0AAC4CEA292DFDAB00AF1FDB /* Week14 */,
 				0AAC4CF12936EFCA00AF1FDB /* Week15 */,
+				0A58CB60295BC7F6002F1609 /* Week19 */,
 				0A629EF128B8555D00BB3961 /* main.swift */,
 			);
 			path = Max;
@@ -461,6 +472,7 @@
 				0AAC4CF7293730DD00AF1FDB /* Sort the people.swift in Sources */,
 				0AAC4CF0292E074900AF1FDB /* 푸파대회.swift in Sources */,
 				0A629EFA28B855BD00BB3961 /* Squarestar.swift in Sources */,
+				0A58CB62295BC828002F1609 /* Final Value.swift in Sources */,
 				0A629F0428B863BF00BB3961 /* 문자열을 정수로 바꾸기.swift in Sources */,
 				0A629F0D28BF53FC00BB3961 /* 2016.swift in Sources */,
 				0AAC4CEC292DFE3B00AF1FDB /* Jewels and Stones.swift in Sources */,
